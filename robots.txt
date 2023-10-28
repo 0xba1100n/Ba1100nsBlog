@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://mister-hope.github.io/0xba1100n.github.io/sitemap.xml
